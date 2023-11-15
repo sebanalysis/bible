@@ -1,0 +1,56 @@
+# Translations from:
+# https://github.com/bibleapi/bibleapi-bibles-json/tree/master and 
+# https://github.com/scrollmapper/bible_databases/tree/master/txt
+# ASV: American Standard Version
+# BBE: Bible in Basic English
+# KJV: King James Version
+# WEB: World English Bible
+# YLT: Young's Literal Translation
+
+
+# death penalty for murder
+2|21|12
+
+# death penalty for murdering parents
+2|21|15 
+
+# death penalty for stealing and selling someone
+2|21|16
+
+# death penalty for cursing parents
+2|21|17
+
+# death penalty for owner of an ox that gores someone more than twice
+2|21|2[89]
+
+# the prophet Elijah summons 2 bears to kill 42 boys as punishment for mocking his baldness
+12|2|2[34]
+
+# God admits to 'the Adversary' that 'the Adversary' nearly made God kill Job, inadvertantly.
+18|2|3
+
+# Women compared to pigs
+20|11|22
+
+# King Solomon describes the size of his beloved's nose
+22|7|[34]
+
+# The prophet Hosea prophesises the genocide of Samaria if the Israelis continue to practice polytheism
+28|13|1[456]
+
+# The Dan tribe kills the people in Laish in order to get a territory for themselves
+7|18|2[67]
+
+# God commands the genocide of the Canaanites
+5|20|1[68]
+
+# Josha's Genocide of the Canaanites
+6|10|40
+
+# Josha's Genocide of the Canaanites
+6|11|20
+
+
+
+
+

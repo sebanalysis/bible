@@ -1,0 +1,194 @@
+# Translations from:
+# https://github.com/bibleapi/bibleapi-bibles-json/tree/master and
+# https://github.com/scrollmapper/bible_databases/tree/master/txt
+# ASV: American Standard Version
+# BBE: Bible in Basic English
+# KJV: King James Version
+# WEB: World English Bible
+# YLT: Young's Literal Translation
+
+
+
+
+# death penalty for murder
+bible/en.asv.txt:2|21|12|He that smiteth a man, so that he dieth, shall surely be put to death.
+bible/en.bbe.txt:2|21|12| He who gives a man a death-blow is himself to be put to death.
+bible/en.kjv.txt:2|21|12|He that smiteth a man, so that he die, shall be surely put to death.
+bible/en.web.txt:2|21|12| "One who strikes a man so that he dies shall surely be put to death,
+bible/en.ylt.txt:2|21|12| `He who smiteth a man so that he hath died, is certainly put to death;
+
+
+
+
+# death penalty for murdering parents
+bible/en.asv.txt:2|21|15|And he that smiteth his father, or his mother, shall be surely put to death.
+bible/en.bbe.txt:2|21|15| Any man who gives a blow to his father or his mother is certainly to be put to death.
+bible/en.kjv.txt:2|21|15|And he that smiteth his father, or his mother, shall be surely put to death.
+bible/en.web.txt:2|21|15| "Anyone who attacks his father or his mother shall be surely put to death.
+bible/en.ylt.txt:2|21|15| `And he who smiteth his father or his mother is certainly put to death.
+
+
+
+
+# death penalty for stealing and selling someone
+bible/en.asv.txt:2|21|16|And he that stealeth a man, and selleth him, or if he be found in his hand, he shall surely be put to death.
+bible/en.bbe.txt:2|21|16| Any man who gets another into his power in order to get a price for him is to be put to death, if you take him in the act.
+bible/en.kjv.txt:2|21|16|And he that stealeth a man, and selleth him, or if he be found in his hand, he shall surely be put to death.
+bible/en.web.txt:2|21|16| "Anyone who kidnaps someone and sells him, or if he is found in his hand, he shall surely be put to death.
+bible/en.ylt.txt:2|21|16| `And he who stealeth a man, and hath sold him, and he hath been found in his hand, is certainly put to death.
+
+
+
+
+# death penalty for cursing parents
+bible/en.asv.txt:2|21|17|And he that curseth his father or his mother, shall surely be put to death.
+bible/en.bbe.txt:2|21|17| Any man cursing his father or his mother is to be put to death.
+bible/en.kjv.txt:2|21|17|And he that curseth his father, or his mother, shall surely be put to death.
+bible/en.web.txt:2|21|17| "Anyone who curses his father or his mother shall surely be put to death.
+bible/en.ylt.txt:2|21|17| `And he who is reviling his father or his mother is certainly put to death.
+
+
+
+
+# death penalty for owner of an ox that gores someone more than twice
+bible/en.asv.txt:2|21|28|And if an ox gore a man or a woman to death, the ox shall be surely stoned, and its flesh shall not be eaten; but the owner of the ox shall be quit.
+bible/en.asv.txt:2|21|29|But if the ox was wont to gore in time past, and it hath been testified to its owner, and he hath not kept it in, but it hath killed a man or a woman, the ox shall be stoned, and its owner also shall be put to death.
+bible/en.bbe.txt:2|21|28| If an ox comes to be the cause of death to a man or a woman, the ox is to be stoned, and its flesh may not be used for food; but the owner will not be judged responsible.
+bible/en.bbe.txt:2|21|29| But if the ox has frequently done such damage in the past, and the owner has had word of it and has not kept it under control, so that it has been the cause of the death of a man or woman, not only is the ox to be stoned, but its owner is to be put to death.
+bible/en.kjv.txt:2|21|28|If an ox gore a man or a woman, that they die: then the ox shall be surely stoned, and his flesh shall not be eaten; but the owner of the ox shall be quit.
+bible/en.kjv.txt:2|21|29|But if the ox were wont to push with his horn in time past, and it hath been testified to his owner, and he hath not kept him in, but that he hath killed a man or a woman; the ox shall be stoned, and his owner also shall be put to death.
+bible/en.web.txt:2|21|28| "If a bull gores a man or a woman to death, the bull shall surely be stoned, and its flesh shall not be eaten; but the owner of the bull shall not be held responsible.
+bible/en.web.txt:2|21|29| But if the bull had a habit of goring in the past, and it has been testified to its owner, and he has not kept it in, but it has killed a man or a woman, the bull shall be stoned, and its owner shall also be put to death.
+bible/en.ylt.txt:2|21|28| `And when an ox doth gore man or woman, and they have died, the ox is certainly stoned, and his flesh is not eaten, and the owner of the ox `is' acquitted;
+bible/en.ylt.txt:2|21|29| and if the ox is `one' accustomed to gore heretofore, and it hath been testified to its owner, and he doth not watch it, and it hath put to death a man or woman, the ox is stoned, and its owner also is put to death.
+
+
+
+
+# the prophet Elijah summons 2 bears to kill 42 boys as punishment for mocking his baldness
+bible/en.asv.txt:12|2|23|And he went up from thence unto Beth-el; and as he was going up by the way, there came forth young lads out of the city, and mocked him, and said unto him, Go up, thou baldhead; go up, thou baldhead.
+bible/en.asv.txt:12|2|24|And he looked behind him and saw them, and cursed them in the name of Jehovah. And there came forth two she-bears out of the wood, and tare forty and two lads of them.
+bible/en.bbe.txt:12|2|23| Then from there he went up to Beth-el; and on his way, some little boys came out from the town and made sport of him, crying, Go up, old no-hair! go up, old no-hair!
+bible/en.bbe.txt:12|2|24| And turning back, he saw them, and put a curse on them in the name of the Lord. And two she-bears came out of the wood and put forty-two of the children to death.
+bible/en.kjv.txt:12|2|23|And he went up from thence unto Bethel: and as he was going up by the way, there came forth little children out of the city, and mocked him, and said unto him, Go up, thou bald head; go up, thou bald head.
+bible/en.kjv.txt:12|2|24|And he turned back, and looked on them, and cursed them in the name of the LORD. And there came forth two she bears out of the wood, and tare forty and two children of them.
+bible/en.web.txt:12|2|23| He went up from there to Bethel; and as he was going up by the way, there came forth young lads out of the city, and mocked him, and said to him, Go up, you baldy; go up, you baldhead.
+bible/en.web.txt:12|2|24| He looked behind him and saw them, and cursed them in the name of Yahweh. There came forth two she-bears out of the wood, and mauled forty-two lads of them.
+bible/en.ylt.txt:12|2|23| And he goeth up thence to Beth-El, and he is going up in the way, and little youths have come out from the city, and scoff at him, and say to him, `Go up, bald-head! go up, bald-head!'
+bible/en.ylt.txt:12|2|24| And he looketh behind him, and seeth them, and declareth them vile in the name of Jehovah, and two bears come out of the forest, and rend of them forty and two lads.
+
+
+
+
+# God admits to 'the Adversary' that 'the Adversary' nearly made God kill Job, inadvertantly.
+bible/en.asv.txt:18|2|3|And Jehovah said unto Satan, Hast thou considered my servant Job? for there is none like him in the earth, a perfect and an upright man, one that feareth God, and turneth away from evil: and he still holdeth fast his integrity, although thou movedst me against him, to destroy him without cause.
+bible/en.bbe.txt:18|2|3| And the Lord said to the Satan, Have you taken note of my servant Job, for there is no one like him on the earth, a man without sin and upright, fearing God and keeping himself far from evil? and he still keeps his righteousness, though you have been moving me to send destruction on him without cause.
+bible/en.kjv.txt:18|2|3|And the LORD said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil? and still he holdeth fast his integrity, although thou movedst me against him, to destroy him without cause.
+bible/en.web.txt:18|2|3| Yahweh said to Satan, "Have you considered my servant Job? For there is none like him in the earth, a blameless and an upright man, one who fears God, and turns away from evil. He still maintains his integrity, although you incited me against him, to ruin him without cause."
+bible/en.ylt.txt:18|2|3| And Jehovah saith unto the Adversary, `Hast thou set thy heart unto My servant Job because there is none like him in the land, a man perfect and upright, fearing God and turning aside from evil? and still he is keeping hold on his integrity, and thou dost move Me against him to swallow him up for nought!'
+
+
+
+
+# Women compared to pigs
+bible/en.asv.txt:20|11|22|`As' a ring of gold in a swine's snout, `So is' a fair woman that is without discretion.
+bible/en.bbe.txt:20|11|22| Like a ring of gold in the nose of a pig, is a beautiful woman who has no sense.
+bible/en.kjv.txt:20|11|22|As a jewel of gold in a swine's snout, so is a fair woman which is without discretion.
+bible/en.web.txt:20|11|22| Like a gold ring in a pig's snout, Is a beautiful woman who lacks discretion.
+bible/en.ylt.txt:20|11|22| A ring of gold in the nose of a sow -- A fair woman and stubborn of behaviour.
+
+
+
+
+# King Solomon describes the size of his beloved's nose
+bible/en.asv.txt:22|7|3|Thy two breasts are like two fawns That are twins of a roe.
+bible/en.asv.txt:22|7|4|Thy neck is like the tower of ivory; Thine eyes `as' the pools in Heshbon, By the gate of Bath-rabbim; Thy nose is like the tower of Lebanon Which looketh toward Damascus.
+bible/en.bbe.txt:22|7|3| Your two breasts are like two young roes of the same birth.
+bible/en.bbe.txt:22|7|4| Your neck is as a tower of ivory; your eyes like the waters in Heshbon, by the doorway of Bath-rabbim; your nose is as the tower on Lebanon looking over Damascus:
+bible/en.kjv.txt:22|7|3|Thy two breasts are like two young roes that are twins.
+bible/en.kjv.txt:22|7|4|Thy neck is as a tower of ivory; thine eyes like the fishpools in Heshbon, by the gate of Bathrabbim: thy nose is as the tower of Lebanon which looketh toward Damascus.
+bible/en.web.txt:22|7|3| Your two breasts are like two fawns, That are twins of a roe.
+bible/en.web.txt:22|7|4| Your neck is like an ivory tower. Your eyes are like the pools in Heshbon by the gate of Bath-rabbim; Your nose is like the tower of Lebanon which looks toward Damascus.
+bible/en.ylt.txt:22|7|3| Thy two breasts as two young ones, twins of a roe,
+bible/en.ylt.txt:22|7|4| Thy neck as a tower of the ivory, Thine eyes pools in Heshbon, near the gate of Bath-Rabbim, Thy face as a tower of Lebanon looking to Damascus,
+
+
+
+
+# The prophet Hosea prophesises the genocide of Samaria if the Israelis continue to practice polytheism
+bible/en.asv.txt:28|13|14|I will ransom them from the power of Sheol; I will redeem them from death: O death, where are thy plagues? O Sheol, where is thy destruction? repentance shall be hid from mine eyes.
+bible/en.asv.txt:28|13|15|Though he be fruitful among his brethren, an east wind shall come, the breath of Jehovah coming up from the wilderness; and his spring shall become dry, and his fountain shall be dried up: he shall make spoil of the treasure of all goodly vessels.
+bible/en.asv.txt:28|13|16|Samaria shall bear her guilt; for she hath rebelled against her God: they shall fall by the sword; their infants shall be dashed in pieces, and their women with child shall be ripped up.
+bible/en.bbe.txt:28|13|14| I will give the price to make them free from the power of the underworld, I will be their saviour from death: O death! where are your pains? O underworld! where is your destruction? my eyes will have no pity.
+bible/en.bbe.txt:28|13|15| Though he gives fruit among his brothers, an east wind will come, the wind of the Lord coming up from the waste land, and his spring will become dry, his fountain will be without water: it will make waste the store of all the vessels of his desire.
+bible/en.kjv.txt:28|13|14|I will ransom them from the power of the grave; I will redeem them from death: O death, I will be thy plagues; O grave, I will be thy destruction: repentance shall be hid from mine eyes.
+bible/en.kjv.txt:28|13|15|Though he be fruitful among his brethren, an east wind shall come, the wind of the LORD shall come up from the wilderness, and his spring shall become dry, and his fountain shall be dried up: he shall spoil the treasure of all pleasant vessels.
+bible/en.kjv.txt:28|13|16|Samaria shall become desolate; for she hath rebelled against her God: they shall fall by the sword: their infants shall be dashed in pieces, and their women with child shall be ripped up.
+bible/en.web.txt:28|13|14| I will ransom them from the power of Sheol. I will redeem them from death! Death, where are your plagues? Sheol, where is your destruction?  Compassion will be hidden from my eyes.
+bible/en.web.txt:28|13|15| Though he is fruitful among his brothers, an east wind will come, The breath of Yahweh coming up from the wilderness; And his spring will become dry, And his fountain will be dried up. He will plunder the storehouse of treasure.
+bible/en.web.txt:28|13|16| Samaria will bear her guilt; For she has rebelled against her God. They will fall by the sword. Their infants will be dashed in pieces, And their pregnant women will be ripped open."
+bible/en.ylt.txt:28|13|14| From the hand of Sheol I do ransom them, From death I redeem them, Where `is' thy plague, O death? Where thy destruction, O Sheol? Repentance is hid from Mine eyes.
+bible/en.ylt.txt:28|13|15| Though he among brethren produceth fruit, Come in doth an east wind, a wind of Jehovah, From a wilderness it is coming up, And it drieth up his fountain, And become dry doth his spring, It -- it spoileth a treasure -- every desirable vessel.
+bible/en.ylt.txt:28|13|16| Become desolate doth Samaria, Because she hath rebelled against her God, By sword they do fall, Their sucklings are dashed in pieces, And its pregnant ones are ripped up!
+
+
+
+
+# The Dan tribe kills the people in Laish in order to get a territory for themselves
+bible/en.asv.txt:7|18|26|And the children of Dan went their way: and when Micah saw that they were too strong for him, he turned and went back unto his house.
+bible/en.asv.txt:7|18|27|And they took that which Micah had made, and the priest whom he had, and came unto Laish, unto a people quiet and secure, and smote them with the edge of the sword; and they burnt the city with fire.
+bible/en.bbe.txt:7|18|26| Then the children of Dan went on their way; and when Micah saw that they were stronger than he, he went back to his house.
+bible/en.bbe.txt:7|18|27| And they took that which Micah had made, and his priest, and came to Laish, to a people living quietly and without thought of danger, and they put them to the sword without mercy, burning down their town.
+bible/en.kjv.txt:7|18|26|And the children of Dan went their way: and when Micah saw that they were too strong for him, he turned and went back unto his house.
+bible/en.kjv.txt:7|18|27|And they took the things which Micah had made, and the priest which he had, and came unto Laish, unto a people that were at quiet and secure: and they smote them with the edge of the sword, and burnt the city with fire.
+bible/en.web.txt:7|18|26| The children of Dan went their way: and when Micah saw that they were too strong for him, he turned and went back to his house.
+bible/en.web.txt:7|18|27| They took that which Micah had made, and the priest whom he had, and came to Laish, to a people quiet and secure, and struck them with the edge of the sword; and they burnt the city with fire.
+bible/en.ylt.txt:7|18|26| and the sons of Dan go on their way, and Micah seeth that they are stronger than he, and turneth, and goeth back unto his house.
+bible/en.ylt.txt:7|18|27| And they have taken that which Micah had made, and the priest whom he had, and come in against Laish, against a people quiet and confident, and smite them by the mouth of the sword, and the city have burnt with fire,
+
+
+
+
+# God commands the genocide of the Canaanites
+bible/en.asv.txt:5|20|16|But of the cities of these peoples, that Jehovah thy God giveth thee for an inheritance, thou shalt save alive nothing that breatheth;
+bible/en.asv.txt:5|20|18|that they teach you not to do after all their abominations, which they have done unto their gods; so would ye sin against Jehovah your God.
+bible/en.bbe.txt:5|20|16| But in the towns of these peoples whose land the Lord your God is giving you for your heritage, let no living thing be kept from death:
+bible/en.bbe.txt:5|20|18| So that you may not take them as your example and do all the disgusting things which they do in the worship of their gods, so sinning against the Lord your God.
+bible/en.kjv.txt:5|20|16|But of the cities of these people, which the LORD thy God doth give thee for an inheritance, thou shalt save alive nothing that breatheth:
+bible/en.kjv.txt:5|20|18|That they teach you not to do after all their abominations, which they have done unto their gods; so should ye sin against the LORD your God.
+bible/en.web.txt:5|20|16| But of the cities of these peoples, that Yahweh your God gives you for an inheritance, you shall save alive nothing that breathes;
+bible/en.web.txt:5|20|18| that they not teach you to do after all their abominations, which they have done to their gods; so would you sin against Yahweh your God.
+bible/en.ylt.txt:5|20|16| `Only, of the cities of these peoples which Jehovah thy God is giving to thee `for' an inheritance, thou dost not keep alive any breathing;
+bible/en.ylt.txt:5|20|18| so that they teach you not to do according to all their abominations which they have done to their gods, and ye have sinned against Jehovah your God.
+
+
+
+
+# Josha's Genocide of the Canaanites
+bible/en.asv.txt:6|10|40|So Joshua smote all the land, the hill-country, and the South, and the lowland, and the slopes, and all their kings: he left none remaining, but he utterly destroyed all that breathed, as Jehovah, the God of Israel, commanded.
+bible/en.bbe.txt:6|10|40| So Joshua overcame all the land, the hill-country and the South and the lowland and the mountain slopes, and all their kings; all were put to death: and every living thing he gave up to the curse, as the Lord, the God of Israel, had given him orders.
+bible/en.kjv.txt:6|10|40|So Joshua smote all the country of the hills, and of the south, and of the vale, and of the springs, and all their kings: he left none remaining, but utterly destroyed all that breathed, as the LORD God of Israel commanded.
+bible/en.web.txt:6|10|40| So Joshua struck all the land, the hill-country, and the South, and the lowland, and the slopes, and all their kings: he left none remaining, but he utterly destroyed all that breathed, as Yahweh, the God of Israel, commanded.
+bible/en.ylt.txt:6|10|40| And Joshua smiteth all the land of the hill-country, and of the south, and of the low-country, and of the springs, and all their kings -- he hath not left a remnant, and all that doth breathe he hath devoted, as Jehovah, God of Israel, commanded.
+
+
+
+
+# Josha's Genocide of the Canaanites
+bible/en.asv.txt:6|11|20|For it was of Jehovah to harden their hearts, to come against Israel in battle, that he might utterly destroy them, that they might have no favor, but that he might destroy them, as Jehovah commanded Moses.
+bible/en.bbe.txt:6|11|20| For the Lord made them strong in heart to go to war against Israel, so that he might give them up to the curse without mercy, and that destruction might come on them, as the Lord had given orders to Moses.
+bible/en.kjv.txt:6|11|20|For it was of the LORD to harden their hearts, that they should come against Israel in battle, that he might destroy them utterly, and that they might have no favor, but that he might destroy them, as the LORD commanded Moses.
+bible/en.web.txt:6|11|20| For it was of Yahweh to harden their hearts, to come against Israel in battle, that he might utterly destroy them, that they might have no favor, but that he might destroy them, as Yahweh commanded Moses.
+bible/en.ylt.txt:6|11|20| for from Jehovah it hath been to strengthen their heart, to meet in battle with Israel, in order to devote them, so that they have no grace, but in order to destroy them, as Jehovah commanded Moses.
+
+
+
+
+
+
+
+
+
+
+
+
